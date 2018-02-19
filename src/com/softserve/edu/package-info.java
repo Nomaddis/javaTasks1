@@ -1,5 +1,5 @@
 /**
- * Classes for solve home tasks
+ * Classes for solve home tasks.
  *
  * @version 1.1
  */

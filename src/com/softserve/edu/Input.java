@@ -1,6 +1,6 @@
 package com.softserve.edu;
 
-import java.io.BufferedReader;
+//import java.io.BufferedReader;
 import java.util.Scanner;
 
 /**
@@ -16,6 +16,7 @@ public class Input {
         // InputStreamReader(System.in));
         Scanner in = new Scanner(System.in);
         System.out.println(s);
+        //in.close();
         return in.nextInt();
     }
 }
